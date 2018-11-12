@@ -1,0 +1,7 @@
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\bin\Debug\BmiCategory.exe.config
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\bin\Debug\BmiCategory.exe
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\bin\Debug\BmiCategory.pdb
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\obj\Debug\BmiCategory.csprojAssemblyReference.cache
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\obj\Debug\BmiCategory.csproj.CoreCompileInputs.cache
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\obj\Debug\BmiCategory.exe
+C:\Users\Arjun\source\repos\BmiCategory\BmiCategory\obj\Debug\BmiCategory.pdb
